@@ -2,11 +2,11 @@
 
 👋🏽 Hello!
 
-😁 He/Him/His <br />
-⛰ Currently calling Colorado home <br />
-💻 Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
-🔎 [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
-🧗🏽‍♂️ Climbing when not coding <br />
+😁  He/Him/His <br />
+⛰  Currently calling Colorado home <br />
+💻  Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
+🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
+🧗🏽‍♂️  Climbing when not coding <br />
 
 ## Tech Skills
 <p align="center" display="flex">
