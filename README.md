@@ -1,15 +1,17 @@
-# Nick Hart
+# Nick Hart (he/him)
 
 👋🏽 Hello!
 
-😁  He/Him/His <br />
 ⛰  Currently calling Colorado home <br />
-💻  Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
-🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
+👨🏽‍💻 Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
+💻 Currently learning `Typescript` and `React Redux` <br />
 🧗🏽‍♂️  Climbing when not coding <br />
 
-## Tech Skills
-<p align="center" display="flex">
+🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
+
+### Skills
+
+<p align="left">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
