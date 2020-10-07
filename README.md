@@ -1,13 +1,15 @@
 # Nick Hart
 
-Hello! 👋🏽  I'm Nick (he/him)
+👋🏽 Hello!
 
+😁 He/Him/His <br />
 ⛰ Currently calling Colorado home <br />
 💻 Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
+🧗🏽‍♂️ Climbing when not coding <br />
 
 ## Tech Skills
-<p align="center">
+<p align="center" display="flex">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
@@ -16,3 +18,5 @@ Hello! 👋🏽  I'm Nick (he/him)
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 </p>
+
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickhartdev)](https://github.com/nickhartdev/github-readme-stats)
