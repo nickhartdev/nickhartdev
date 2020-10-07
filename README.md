@@ -21,4 +21,4 @@
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 </p>
 
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickhartdev)](https://github.com/nickhartdev/github-readme-stats)
+<!-- [![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickhartdev)](https://github.com/nickhartdev/github-readme-stats) -->
