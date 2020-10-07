@@ -4,12 +4,12 @@
 
 ⛰  Currently calling Colorado home <br />
 👨🏽‍💻 Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
-💻 Currently learning `Typescript` and `React Redux` <br />
+💻 Currently learning `Typescript` <br />
 🧗🏽‍♂️  Climbing when not coding <br />
 
 🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
 
-### Skills
+## Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
