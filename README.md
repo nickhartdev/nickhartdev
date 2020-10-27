@@ -5,7 +5,7 @@
 ⛰  Currently calling Colorado home <br />
 👨🏽‍💻 Turing School of Software & Design, 2020; 👨🏽‍🎓 Texas State University, 2018 <br/>
 💻 Currently learning `Typescript` <br />
-🧗🏽‍♂️ Really likes climbing things <br />
+🧗🏽‍♂️ I really like climbing things <br />
 
 🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
 
