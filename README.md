@@ -7,7 +7,7 @@
 💻 Currently learning `Typescript` <br />
 🧗🏽‍♂️ I really like climbing things <br />
 
-🚀  [nickhart.dev](https://nickhart.dev)
+🚀  <a href="https://nickhart.dev" target="_blank">Portfolio</a> </br>
 🔎  [LinkedIn](https://www.linkedin.com/in/nickhartdev/) </br>
 
 ## Skills
